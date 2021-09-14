@@ -33,9 +33,8 @@ ng test
 Eu criei o arquivo não rastreado `env.js` dentro da pasta `environment`, pra guardar a minha chave do OpenWeather.
 
 Então pra usar o app vc precisa:
-1. duplicar o arquivo `env-exemplo`,
-2. renomear pra env
-3. adicionar sua própria chave.
+1. renomear o arquivo `env-exemplo` pra `env`,
+2. adicionar sua própria chave.
 
 Desculpa qualquer coisa, fiz isso porque o GitHub brigou comigo e eu sou covarde.
 

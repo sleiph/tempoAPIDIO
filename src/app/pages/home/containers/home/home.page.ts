@@ -19,7 +19,7 @@ import * as fromConfigSelectors from '../../../../shared/state/config/config.sel
 @Component({
   selector: 'jv-home',
   templateUrl: './home.page.html',
-  styleUrls: ['./home.page.css']
+  styleUrls: ['./home.page.scss']
 })
 export class HomePage implements OnInit, OnDestroy {
 

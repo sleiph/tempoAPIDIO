@@ -6,7 +6,7 @@ import { Units } from 'src/app/shared/models/units.enum';
 @Component({
   selector: 'jv-current-weather',
   templateUrl: './current-weather.component.html',
-  styleUrls: ['./current-weather.component.css'],
+  styleUrls: ['./current-weather.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class CurrentWeatherComponent {

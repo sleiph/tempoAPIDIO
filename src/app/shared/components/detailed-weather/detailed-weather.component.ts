@@ -6,7 +6,7 @@ import { unitToSymbol } from '../../utils/units.utils';
 @Component({
   selector: 'jv-detailed-weather',
   templateUrl: './detailed-weather.component.html',
-  styleUrls: ['./detailed-weather.component.css'],
+  styleUrls: ['./detailed-weather.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class DetailedWeatherComponent {

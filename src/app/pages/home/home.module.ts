@@ -28,5 +28,4 @@ import { UnitSelectorComponent } from './containers/unit-selector/unit-selector.
     UnitSelectorComponent,
   ],
 })
-
 export class HomeModule { }

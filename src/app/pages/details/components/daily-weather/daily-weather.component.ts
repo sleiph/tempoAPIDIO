@@ -9,7 +9,7 @@ import { unitToSymbol } from 'src/app/shared/utils/units.utils';
 @Component({
   selector: 'jv-daily-weather',
   templateUrl: 'daily-weather.component.html',
-  styleUrls: ['daily-weather.component.css'],
+  styleUrls: ['daily-weather.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class DailyWeatherComponent {

@@ -11,7 +11,7 @@ import * as fromConfigActions from '../../../../shared/state/config/config.actio
 @Component({
   selector: 'jv-unit-selector',
   templateUrl: 'unit-selector.component.html',
-  styleUrls: ['unit-selector.component.css'],
+  styleUrls: ['unit-selector.component.scss'],
 })
 export class UnitSelectorComponent implements OnInit {
 

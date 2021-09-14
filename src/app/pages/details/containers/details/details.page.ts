@@ -13,7 +13,7 @@ import * as fromConfigSelectors from '../../../../shared/state/config/config.sel
 @Component({
   selector: 'jv-details',
   templateUrl: './details.page.html',
-  styleUrls: ['./details.page.css']
+  styleUrls: ['./details.page.scss']
 })
 export class DetailsPage implements OnInit {
 

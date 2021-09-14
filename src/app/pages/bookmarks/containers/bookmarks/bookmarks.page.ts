@@ -14,7 +14,7 @@ import * as fromBookmarksActions from '../../state/bookmarks.actions';
 @Component({
   selector: 'jv-bookmarks',
   templateUrl: './bookmarks.page.html',
-  styleUrls: ['./bookmarks.page.css']
+  styleUrls: ['./bookmarks.page.scss']
 })
 export class BookmarksPage implements OnInit, OnDestroy {
 

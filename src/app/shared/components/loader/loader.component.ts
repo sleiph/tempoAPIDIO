@@ -9,4 +9,5 @@ import { Component } from "@angular/core";
     </div>
   `,
 })
-export class LoaderComponent {  }
+export class LoaderComponent {
+}

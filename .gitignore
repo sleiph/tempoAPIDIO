@@ -12,6 +12,7 @@
 
 # profiling files
 chrome-profiler-events*.json
+speed-measure-plugin*.json
 
 # IDEs and editors
 /.idea
@@ -40,8 +41,8 @@ yarn-error.log
 testem.log
 /typings
 
-# api
-env.js
+# api key
+env.ts
 
 # System Files
 .DS_Store

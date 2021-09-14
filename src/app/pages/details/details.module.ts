@@ -30,4 +30,5 @@ import { DailyWeatherComponent } from './components/daily-weather/daily-weather.
     DetailsGuard,
   ],
 })
-export class DetailsModule {  }
+export class DetailsModule {
+}

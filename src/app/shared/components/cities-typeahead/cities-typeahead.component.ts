@@ -11,7 +11,7 @@ import { CitiesService } from '../../services/cities.service';
 @Component({
   selector: 'jv-cities-typeahead',
   templateUrl: './cities-typeahead.component.html',
-  styleUrls: ['./cities-typeahead.component.css'],
+  styleUrls: ['./cities-typeahead.component.scss'],
 })
 export class CitiesTypeaheadComponent implements OnInit, ControlValueAccessor {
 

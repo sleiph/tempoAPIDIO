@@ -1,10 +1,10 @@
 # API de previsão do tempo 🌩
 
-Criando projeto para consultar a previsão do tempo via API
+Criando projeto para consultar a previsão do tempo via API externa do [OpenWeather](https://openweathermap.org).
 
 ## Comandos
 
-O projeto usa a [Angular CLI](https://github.com/angular/angular-cli)
+O projeto usa a [Angular CLI](https://github.com/angular/angular-cli).
 
 pra rodar o servidor de desenvolvimento:
 ```

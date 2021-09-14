@@ -28,6 +28,17 @@ testes:
 ng test
 ```
 
+## API Key
+
+Eu criei o arquivo não rastreado `env.js` dentro da pasta `environment`, pra guardar a minha chave do OpenWeather.
+
+Então pra usar o app vc precisa:
+1. duplicar o arquivo `env-exemplo`,
+2. renomear pra env
+3. adicionar sua própria chave.
+
+Desculpa qualquer coisa, fiz isso porque o GitHub brigou comigo e eu sou covarde.
+
 ## Projeto original
 
 [João Ghignatti](https://github.com/JGhignatti/jv-weather), no Bootcamp de Angular e Java da [DIO](https://web.digitalinnovation.one).

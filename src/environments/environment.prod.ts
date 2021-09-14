@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiKey: require('./env').apiKey
+  apiKey: 'eab691caf8a4bbfcfd7acc30de0f55fa'
 };
